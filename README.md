@@ -1,4 +1,4 @@
-# &lt;my-element&gt;
+# &lt;twitch-tv-chat&gt;
 
 Web Component wrapper for [Twitch.tv chat](http://www.twitch.tv/) using Polymer.
 
